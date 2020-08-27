@@ -7,7 +7,7 @@
 </head>
 <body>
     <?php
-    include "front.html"
+    include "index.html"
     ?>
 <form action="calculator.php" method="post">
 Operand-<input type="text" name="first">
