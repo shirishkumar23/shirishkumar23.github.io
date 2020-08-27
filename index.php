@@ -9,7 +9,7 @@
     <?php
     include "index.html"
     ?>
-<form action="calculator.php" method="post">
+<form action="index.php" method="post">
 Operand-<input type="text" name="first">
 <br>
 2.Operator-<input type=" text" name="operator"><br>
